@@ -1,0 +1,8 @@
+<html>
+<body>
+<p style="text-align: left;"><strong>Hello {fullname}</strong></p>
+
+<p style="text-align: left;"><strong>thanks for registering in KnowYourScheme please click the below link to verify your email id</strong></p>
+<p style="text-align: left;"><strong><a href = "{verificationLink}">{verificationLink}</a></strong></p>
+</body>
+</html>

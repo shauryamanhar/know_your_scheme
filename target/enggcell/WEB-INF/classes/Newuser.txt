@@ -1,0 +1,7 @@
+<html>
+<body>
+<p style="text-align: left;"><strong>Hello {fullname}</strong></p>
+<p style="text-align: left;"><strong>Your registration id is: {regId}</strong></p>
+<p style="text-align: left;"><strong><a title="Kindly use this registration id for all further processes."</a></strong></p>
+</body>
+</html>

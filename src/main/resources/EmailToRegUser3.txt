@@ -1,0 +1,7 @@
+<html>
+<body>
+<p style="text-align: left;"><strong>Hello {fullname}</strong>, {countApp} new Government Jobs posted</p>
+<br>
+{detailedHtml}
+</body>
+</html>

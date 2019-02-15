@@ -1,0 +1,6 @@
+<html>
+<body>
+<p style="text-align: left;"><strong>Hello {fullname}, {countApp} new Schemes launched by Government</strong></p>
+{detailedHtml}
+</body>
+</html>

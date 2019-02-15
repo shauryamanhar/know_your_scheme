@@ -1,0 +1,8 @@
+<html>
+<body>
+<p style="text-align: left;"><strong>Hello {fullname}</strong>, {countApp} new Application Forms</p>
+<br>
+<hr>
+{detailedHtml}
+</body>
+</html>
